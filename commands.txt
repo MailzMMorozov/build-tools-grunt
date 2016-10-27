@@ -1,0 +1,4 @@
+git clone https://github.com/ngbp/ngbp
+npm i -g karma bower
+npm i
+bower i
