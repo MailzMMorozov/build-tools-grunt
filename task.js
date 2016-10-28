@@ -24,7 +24,7 @@ console.log('bazB');
 console.log('bazC');
 
 // ----2----
-// uglify into {package.name}.min.js in folder "build"
+// uglify all file into {package.name}.min.js in folder "build"
 // add banner with version number
 
 // ----3----
